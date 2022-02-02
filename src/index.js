@@ -1,7 +1,7 @@
 import "./index.css";
 import React from "react";
 import ReactDOM from "react-dom";
-import Header from "./calculadora/Header.jsx";
+import Header from "./Contador/Contador.jsx";
 
 ReactDOM.render(
   <div>
